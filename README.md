@@ -1,6 +1,6 @@
 # Ender Chest Plugin for Spigot (Minecraft 1.21.4)
 
-https://freeimage.host/i/3J1f4gR 
+![enderchest plugin](https://github.com/user-attachments/assets/4e1ca802-f8b3-4666-9c16-a4e424d3a86b)
 
 ## 🚀 Overview
 Ender Chest Plugin is a **lightweight**, **minimalistic**, and **secure** plugin designed for Minecraft Spigot servers (version 1.21.4). This plugin allows players to access their Ender Chest anywhere on the server, providing a seamless gameplay experience.
