@@ -1,0 +1,7 @@
+name: EnderChestPlugin
+version: 1.0
+main: lol.aymeric.enderchestPlugin.EnderchestPlugin
+commands:
+  ec:
+    description: Opens your ender chest anywhere.
+    usage: /ec
