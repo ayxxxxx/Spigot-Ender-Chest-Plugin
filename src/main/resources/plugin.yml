@@ -1,5 +1,5 @@
 name: EnderChestPlugin
-version: 1.0
+version: 1.1
 main: lol.aymeric.enderchestPlugin.EnderchestPlugin
 commands:
   ec:
